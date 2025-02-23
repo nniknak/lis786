@@ -35,3 +35,23 @@ We’ve learned a lot since our first ride and want to keep using those moments 
 - Your start and stop can be nearby as we twist and turn through the area.
 1. Bring the energy day-of! You did it!
 1. Reflect and fill out our google doc archive of past rides including feedback on how this ride went, good and bad, for future reference
+
+<!--
+    Femmes and Thems Bike Chicago Website
+    Copyright (C) 2025  Annika Kohrt
+    kohrt.annika@gmail.com
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+-->
