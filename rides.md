@@ -3,10 +3,9 @@ title: Rides
 layout: page
 permalink: /rides
 ---
-## Rides
 
 {% for ride in site.rides %}
-    {{ ride.title }} 
+{{ ride.title }} 
 {% endfor %}
 
 Content check
