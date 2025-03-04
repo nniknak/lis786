@@ -5,7 +5,6 @@ permalink: /rides
 ---
 {% for ride in site.rides %}
     ## {{ ride.title }} {% if ride.category == "saturday" %} *Saturday Ride* {% endif %}
-    ### {{ ride.headline }}
     ### {{ ride.date | date_to_string: "ordinal", "US"}}
     Meet-Up @ {{ ride.start}}
     & ride with us {{ ride.length }} to
