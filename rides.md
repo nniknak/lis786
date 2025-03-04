@@ -1,8 +1,8 @@
---
+---
 title: Rides
 layout: page
 permalink: /rides
---
+---
 {% for ride in site.rides %}
     ## {{ ride.title }} {% if ride.category == "saturday" %} *Saturday Ride* {% endif %}
     ### {{ ride.headline }}
