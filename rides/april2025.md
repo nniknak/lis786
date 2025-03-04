@@ -1,6 +1,9 @@
 --
 title: April Ride
-category: saturday
-time:
+category: Saturday Ride
+date_time: 
+start:
+end:
+length:
 image:
 --
