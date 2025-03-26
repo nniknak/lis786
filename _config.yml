@@ -1,12 +1,12 @@
 title: Femmes and Thems Bike Chicago
 theme: minima
 collections:
-  machines:
+  rides:
     output: true
 
 
 defaults:
   - scope:
-      type: "machines"
+      type: "rides"
     values:
-      layout: machine
+      layout: ride
