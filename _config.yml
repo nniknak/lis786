@@ -1,7 +1,7 @@
 title: Femmes and Thems Bike Chicago
 theme: minima
 collections:
-  rides:
+  machines:
     output: true
 
 
