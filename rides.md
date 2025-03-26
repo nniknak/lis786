@@ -4,10 +4,6 @@ layout: page
 permalink: /rides
 ---
 
-{% for ride in site.rides %}
-{{ ride.title }} 
-{% endfor %}
-
 <h2>List of Machines</h2>
 {% for machine in site.machines %}
     <!-- DO SOMETHING -->
