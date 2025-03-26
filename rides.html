@@ -8,5 +8,11 @@ permalink: /rides
 {% for ride in site.rides %}
     <!-- DO SOMETHING -->
     <h3>{{ ride.title }}</h3>
+    <em> Category: {{ ride.category }}</em>
+    <p>{{ ride.date }}</p>
+    <p>Meet up @ {{ ride.start }}
+        \& ride {{ ride.length }} with us to
+        {{ ride.end }}
+    </p>
 {% endfor %}
 
