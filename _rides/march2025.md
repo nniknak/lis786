@@ -1,5 +1,5 @@
 --
-title: February Ride
+title: March Ride
 category: saturday
 date: 2025-02-01 12:30
 start: Smith Park
