@@ -4,10 +4,7 @@ layout: page
 permalink: /faq
 accordion: 
   - title: Why do we exist?
-    content: 
-    - Friendship
-    - Community building
-    - Making bike friends in a safe space
+    content: Friendship! Community building! Making bike friends in a safe space
   - title: What kind of bike do you need to have?
     content: Our rides welcome all forms of micromobility! We'd love to see you roll up on e-bikes, cruisers, folding bikes, mountain bikes, cargo bikes full of children & pets, gravel bikes, trikes, road bikes, scooters, or other PEVs.
   - title: Can I bring a speaker?
